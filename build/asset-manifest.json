@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Book-Shopping-App/static/css/main.fe314c46.css",
+    "main.js": "/Book-Shopping-App/static/js/main.92a8756c.js",
+    "index.html": "/Book-Shopping-App/index.html",
+    "main.fe314c46.css.map": "/Book-Shopping-App/static/css/main.fe314c46.css.map",
+    "main.92a8756c.js.map": "/Book-Shopping-App/static/js/main.92a8756c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe314c46.css",
+    "static/js/main.92a8756c.js"
+  ]
+}
